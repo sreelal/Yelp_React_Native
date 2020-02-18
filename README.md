@@ -7,7 +7,7 @@ This project is developed using expo, refer https://facebook.github.io/react-nat
 
 Steps to run the app
 
-  Step 1 : go to project folder "cd/<path to project>"
+  Step 1 : go to project folder "cd/path-to-project-folder"
   
   Step 2 : run "npm install"
   
